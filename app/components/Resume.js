@@ -69,7 +69,7 @@ export default function Resume() {
 
           {/* Download Resume Button */}
           <a
-            href="https://drive.google.com/file/d/18kynqT-AMF3fUJafV-z6w7t_y1rrxuKj/view?usp=sharing"
+            href="https://drive.google.com/file/d/1mKPsAM4FR9ma68Gd7vykCmQrSJ2fNVtF/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -97,5 +97,3 @@ export default function Resume() {
     </section>
   );
 }
-
-// https://drive.google.com/file/d/18kynqT-AMF3fUJafV-z6w7t_y1rrxuKj/view?usp=sharing
