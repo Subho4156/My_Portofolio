@@ -3,10 +3,10 @@
 export default function Resume() {
   const education = [
     {
-      degree: "CBSE Class 10",
-      school: "Kendriya Vidyalaya IIM Joka",
-      period: "2019",
-      description: "Percentage: 88.8%",
+      degree: "Bachelor of Technology in Computer Science and Engineering",
+      school: "JIS University",
+      period: "2026",
+      description: "CGPA: 8.63 [Till 6th Semester]",
     },
     {
       degree: "CBSE Class 12",
@@ -15,10 +15,10 @@ export default function Resume() {
       description: "Percentage: 71%",
     },
     {
-      degree: "Bachelor of Technology in Computer Science and Engineering",
-      school: "JIS University",
-      period: "2026",
-      description: "CGPA: 8.63 [Till 6th Semester]",
+      degree: "CBSE Class 10",
+      school: "Kendriya Vidyalaya IIM Joka",
+      period: "2019",
+      description: "Percentage: 88.8%",
     },
   ];
 
